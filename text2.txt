@@ -1,5 +1,7 @@
+These are the colors!
 Yellow
 Purple
 Green
 Red
 Blue
+Black
