@@ -1,3 +1,7 @@
 Green
 Purple
+<<<<<<< HEAD
 Black Black Black
+=======
+White White White
+>>>>>>> 72a9413d8db66c99a30b4e635ad98fecde257b51
