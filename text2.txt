@@ -1,7 +1,5 @@
-These are the colors!
-Yellow
-Purple
-Green
-Red
-Blue
-Black
+These are the animals from now on
+
+Bird
+Dog
+Cat
